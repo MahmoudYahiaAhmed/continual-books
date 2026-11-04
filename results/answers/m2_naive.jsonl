@@ -1,0 +1,300 @@
+{"model": "m2_naive", "book": "A", "idx": 0, "question": "What does the narrator believe could distress 'you'?", "reference": "the interview", "prediction": "the circumstances surrounding your friend's death"}
+{"model": "m2_naive", "book": "A", "idx": 1, "question": "What is an advantage of the first method when used on a deceased person?", "reference": "It could be carried out without the knowledge of the victim.", "prediction": "There is no need to have the person in the room"}
+{"model": "m2_naive", "book": "A", "idx": 2, "question": "Who brought the prisoner to a different location before the verdict?", "reference": "Not specified.", "prediction": "an opportune officer"}
+{"model": "m2_naive", "book": "A", "idx": 3, "question": "To whom did the person say 'Thank you'?", "reference": "Thorndyke", "prediction": "Polton"}
+{"model": "m2_naive", "book": "A", "idx": 4, "question": "What did the narrator think about Mr. Hornby?", "reference": "it seems to me possible to construct a hypothesis as to the identity of the robber", "prediction": "He is a pretty wide-awake gentleman"}
+{"model": "m2_naive", "book": "A", "idx": 5, "question": "Which character held Mrs. Hornby's hand?", "reference": "Thorndyke", "prediction": "Mr. Weiss"}
+{"model": "m2_naive", "book": "A", "idx": 6, "question": "What street did they walk down and in which direction?", "reference": "New Bridge Street, towards the Embankment", "prediction": "Kennington Park Road towards the roundabout"}
+{"model": "m2_naive", "book": "A", "idx": 7, "question": "Who greeted the other person?", "reference": "Thorndyke", "prediction": "Thorndyke"}
+{"model": "m2_naive", "book": "A", "idx": 8, "question": "What does the judge look like?", "reference": "a thin-faced, hollow-eyed elderly man", "prediction": "portly, reddish-brown in complexion, wore a thickish, fairish, rather shabby greyish-brown coat and a rather large, square hat"}
+{"model": "m2_naive", "book": "A", "idx": 9, "question": "What letter appears most often in the alphabet?", "reference": "e", "prediction": "e"}
+{"model": "m2_naive", "book": "A", "idx": 10, "question": "What is Miss Gibson's annual income?", "reference": "six hundred a year", "prediction": "about three thousand pounds"}
+{"model": "m2_naive", "book": "A", "idx": 11, "question": "Who would have added a postscript?", "reference": "the principal", "prediction": "Thorndyke"}
+{"model": "m2_naive", "book": "A", "idx": 12, "question": "Which person left the room after the one in the text?", "reference": "Superintendent Miller", "prediction": "Mr. Weiss"}
+{"model": "m2_naive", "book": "A", "idx": 13, "question": "How did John Hornby relate to the diamonds?", "reference": "had access to the diamonds", "prediction": "He was a jeweller"}
+{"model": "m2_naive", "book": "A", "idx": 14, "question": "Is there a way to stop blood from clotting?", "reference": "Yes.", "prediction": "Yes."}
+{"model": "m2_naive", "book": "A", "idx": 15, "question": "What kind of mark was discovered on the paper?", "reference": "the print of a finger or thumb", "prediction": "A single, neat incision"}
+{"model": "m2_naive", "book": "A", "idx": 16, "question": "Which items is Polton instructed to bring to the court?", "reference": "A box and a portfolio", "prediction": "the brief, the files and the chairs"}
+{"model": "m2_naive", "book": "A", "idx": 17, "question": "Which person recorded Mr. Lawley's words?", "reference": "Thorndyke", "prediction": "Thorndyke"}
+{"model": "m2_naive", "book": "A", "idx": 18, "question": "When did the narrator want to be at the prison?", "reference": "by two", "prediction": "by about twelve"}
+{"model": "m2_naive", "book": "A", "idx": 19, "question": "What additional material did Thorndyke include for each case he finished?", "reference": "added, as an appendix to each case, an analysis with a complete scheme for the detection of the crime", "prediction": "an analysis of the evidence"}
+{"model": "m2_naive", "book": "A", "idx": 20, "question": "What was Sergeant Bates' demeanor when entering the witness box?", "reference": "with the same ready, business-like air", "prediction": "more stiff and formal"}
+{"model": "m2_naive", "book": "A", "idx": 21, "question": "To whom were the Trichinopoly cheroots originally given?", "reference": "Mr. Hornby", "prediction": "the guests"}
+{"model": "m2_naive", "book": "A", "idx": 22, "question": "How are Thorndyke and Jervis related?", "reference": "friend", "prediction": "friend"}
+{"model": "m2_naive", "book": "A", "idx": 23, "question": "Which author wrote about finger-prints?", "reference": "Galton", "prediction": "Galton"}
+{"model": "m2_naive", "book": "A", "idx": 24, "question": "What is the duration of the narrator's stay with the Hornbys?", "reference": "Six years", "prediction": "About a week"}
+{"model": "m2_naive", "book": "A", "idx": 25, "question": "How many sprocket-wheel sizes did Thorndyke refer to?", "reference": "one", "prediction": "two"}
+{"model": "m2_naive", "book": "A", "idx": 26, "question": "In what liquid did Thorndyke clean the projectile?", "reference": "distilled water", "prediction": "distilled water"}
+{"model": "m2_naive", "book": "A", "idx": 27, "question": "What is known about Walter Hornby's potential involvement?", "reference": "He may have had the means of obtaining Reuben's thumb-mark.", "prediction": "Nothing definite"}
+{"model": "m2_naive", "book": "A", "idx": 28, "question": "What was the time difference between the two thumb-prints?", "reference": "Many weeks", "prediction": "About a month"}
+{"model": "m2_naive", "book": "A", "idx": 29, "question": "Whom does Walter refer to as a 'confounded fool'?", "reference": "Reuben", "prediction": "Miller"}
+{"model": "m2_naive", "book": "A", "idx": 30, "question": "Who built the house according to the inscription?", "reference": "Richard Powell", "prediction": "I. de Thorndyke"}
+{"model": "m2_naive", "book": "A", "idx": 31, "question": "Which company produces the machine?", "reference": "Blickensderfer", "prediction": "Blickner & Co."}
+{"model": "m2_naive", "book": "A", "idx": 32, "question": "What does Polton currently do?", "reference": "mechanical factotum to a medical jurist", "prediction": "looks after the house and the garden"}
+{"model": "m2_naive", "book": "A", "idx": 33, "question": "What activity did Reuben and the narrator share?", "reference": "Visit the museums and galleries together.", "prediction": "watching the narrator's patient"}
+{"model": "m2_naive", "book": "A", "idx": 34, "question": "Who offered to get his thumb-print taken right away?", "reference": "Reuben", "prediction": "Thorndyke"}
+{"model": "m2_naive", "book": "A", "idx": 35, "question": "What did Mr. Hornby retain for later?", "reference": "The marked paper", "prediction": "the bulk of his property"}
+{"model": "m2_naive", "book": "A", "idx": 36, "question": "What happened to the man after he turned into Little James' Street?", "reference": "vanished", "prediction": "disappeared"}
+{"model": "m2_naive", "book": "A", "idx": 37, "question": "Which woman greeted the narrator with a hand and a smile?", "reference": "Miss Gibson", "prediction": "Mrs. Schallibaum"}
+{"model": "m2_naive", "book": "A", "idx": 38, "question": "What is Miss Gibson's gender?", "reference": "a young lady", "prediction": "female"}
+{"model": "m2_naive", "book": "A", "idx": 39, "question": "How does Thorndyke react when the visitors enter?", "reference": "stiffly", "prediction": "half rose and bowed silently"}
+{"model": "m2_naive", "book": "A", "idx": 40, "question": "Which bell was ringing eight when they entered?", "reference": "The Temple bell", "prediction": "the front door bell"}
+{"model": "m2_naive", "book": "A", "idx": 41, "question": "Which character proposed the luncheon?", "reference": "Thorndyke", "prediction": "Thorndyke"}
+{"model": "m2_naive", "book": "A", "idx": 42, "question": "Whose thumb-print was found on the safe?", "reference": "Reuben Hornby", "prediction": "Mr. Jeffrey Blackmore"}
+{"model": "m2_naive", "book": "A", "idx": 43, "question": "What did the narrator and Walter sit in at the police court?", "reference": "The solicitor's box", "prediction": "the public gallery"}
+{"model": "m2_naive", "book": "A", "idx": 44, "question": "What did the colleague want to know about the case?", "reference": "But what is the special bearing on the case supposing it was so?", "prediction": "What do you make of this?"}
+{"model": "m2_naive", "book": "A", "idx": 45, "question": "How would you describe the revellers in Sidmouth Street?", "reference": "roughs of the hooligan type", "prediction": "revellers"}
+{"model": "m2_naive", "book": "A", "idx": 46, "question": "What was Mr. Anstey wearing?", "reference": "A wig and gown", "prediction": "spectacles"}
+{"model": "m2_naive", "book": "A", "idx": 47, "question": "What kind of instrument did the doctor require for a particular task?", "reference": "more powerful instrument", "prediction": "a good, strong lamp"}
+{"model": "m2_naive", "book": "A", "idx": 48, "question": "In what other area does Thorndyke hope his friend's abilities would be used?", "reference": "applied in some other direction", "prediction": "in the great cause of human happiness"}
+{"model": "m2_naive", "book": "A", "idx": 49, "question": "Which character described how the magnification works?", "reference": "Thorndyke", "prediction": "He"}
+{"model": "m2_naive", "book": "A", "idx": 50, "question": "What are the two main ways to keep blood from solidifying?", "reference": "Stir or whip the fresh blood rapidly with a bundle of fine twigs, or dissolve a certain proportion of some alkaline salt in the fresh blood.", "prediction": "By keeping the temperature constant and by adding some substance to the blood"}
+{"model": "m2_naive", "book": "A", "idx": 51, "question": "Who possessed the safe's keys?", "reference": "Not stated", "prediction": "Mr. Jeffrey"}
+{"model": "m2_naive", "book": "A", "idx": 52, "question": "Who confiscated the paper?", "reference": "Dr. Jervis", "prediction": "The narrator"}
+{"model": "m2_naive", "book": "A", "idx": 53, "question": "Which part of the negative shields the gelatine plate from light?", "reference": "the opaque parts of the negative", "prediction": "The opaque parts of the negative"}
+{"model": "m2_naive", "book": "A", "idx": 54, "question": "What building is next to Mr. Lawley's office?", "reference": "on the north side of Lincoln's Inn", "prediction": "a watch and clock-maker's"}
+{"model": "m2_naive", "book": "A", "idx": 55, "question": "What is the difficulty level of forging a thumb-print?", "reference": "quite easy", "prediction": "quite a difficult undertaking"}
+{"model": "m2_naive", "book": "A", "idx": 56, "question": "Who might accompany Mrs. Hornby and Miss Gibson?", "reference": "Walter Hornby", "prediction": "Mr. Winwood"}
+{"model": "m2_naive", "book": "A", "idx": 57, "question": "What substance is applied to the gelatine plate?", "reference": "potassium bichromate", "prediction": "a very thin layer of the substance called potassium bromide"}
+{"model": "m2_naive", "book": "A", "idx": 58, "question": "What did the red print's thumb-print resemble?", "reference": "the prisoner's thumb-print", "prediction": "the thumb-print on the will"}
+{"model": "m2_naive", "book": "A", "idx": 59, "question": "Which experts provided the only theoretical evidence?", "reference": "finger-print experts", "prediction": "Criminologists"}
+{"model": "m2_naive", "book": "A", "idx": 60, "question": "What material did Reuben use to bandage the finger?", "reference": "a handkerchief", "prediction": "Gauze"}
+{"model": "m2_naive", "book": "A", "idx": 61, "question": "Does the narrator have a strong feeling about the sender's death?", "reference": "strong interest", "prediction": "a strong feeling that he would not have been murdered if he had remained in England"}
+{"model": "m2_naive", "book": "A", "idx": 62, "question": "What people had dinner with the narrator yesterday evening?", "reference": "Mr. Lawley and Walter", "prediction": "the Stephenses"}
+{"model": "m2_naive", "book": "A", "idx": 63, "question": "Which person requested Mrs. Hornby to keep the book with him?", "reference": "he", "prediction": "Mr. Blackmore"}
+{"model": "m2_naive", "book": "A", "idx": 64, "question": "Which person came to the location?", "reference": "Mr. Hornby", "prediction": "Mr. H. Weiss"}
+{"model": "m2_naive", "book": "A", "idx": 65, "question": "In what location were the experiments taking place?", "reference": "upstairs", "prediction": "the chambers of the house"}
+{"model": "m2_naive", "book": "A", "idx": 66, "question": "Which kind of cigar was delivered?", "reference": "Trichinopoly", "prediction": "Trichinopoly cheroots"}
+{"model": "m2_naive", "book": "A", "idx": 67, "question": "Who knew about their engagement before others?", "reference": "She was", "prediction": "John"}
+{"model": "m2_naive", "book": "A", "idx": 68, "question": "What type of compartment did the narrator enter?", "reference": "a narrow box", "prediction": "a private office"}
+{"model": "m2_naive", "book": "A", "idx": 69, "question": "Which person is preparing tea?", "reference": "He", "prediction": "Mrs. Schallibaum"}
+{"model": "m2_naive", "book": "A", "idx": 70, "question": "Which material, besides defibrinated blood, was discovered in the safe?", "reference": "defibrinated blood", "prediction": "a small parcel of the softening agent"}
+{"model": "m2_naive", "book": "A", "idx": 71, "question": "Why can't a genuine finger-print be distinguished from a forged one?", "reference": "there would be no difference to detect", "prediction": "A genuine finger-print and a forged one are indistinguishable."}
+{"model": "m2_naive", "book": "A", "idx": 72, "question": "Who, according to the judge, conducted a defense that was praiseworthy?", "reference": "Dr. Thorndyke", "prediction": "Mr. Blackmore"}
+{"model": "m2_naive", "book": "A", "idx": 73, "question": "How did the narrator describe the microscope?", "reference": "a great instrument", "prediction": "a serious scientific instrument"}
+{"model": "m2_naive", "book": "A", "idx": 74, "question": "How was the poison in the cigar supposed to be activated?", "reference": "dissolve in the moisture of the mouth", "prediction": "By the heat of the mouth"}
+{"model": "m2_naive", "book": "A", "idx": 75, "question": "What type of person does the narrator believe Reuben is not?", "reference": "A boastful cad", "prediction": "A bold, bad woman"}
+{"model": "m2_naive", "book": "A", "idx": 76, "question": "Which person reached the premises earliest on the tenth?", "reference": "Mr. Reuben", "prediction": "Mr. Jeffrey"}
+{"model": "m2_naive", "book": "A", "idx": 77, "question": "What typewheel includes an asterisk?", "reference": "literary typewheel", "prediction": "Holt's"}
+{"model": "m2_naive", "book": "A", "idx": 78, "question": "Is the prisoner known to have a small private income?", "reference": "Yes", "prediction": "Yes"}
+{"model": "m2_naive", "book": "A", "idx": 79, "question": "What was Mrs. Hornby's emotional state regarding Reuben's situation?", "reference": "Very upset", "prediction": "She was beside herself with anxiety."}
+{"model": "m2_naive", "book": "A", "idx": 80, "question": "What mode of transportation did Juliet use?", "reference": "by omnibus", "prediction": "The omnibus"}
+{"model": "m2_naive", "book": "A", "idx": 81, "question": "What type of applause was there in the audience?", "reference": "low rumble", "prediction": "a mixture of genuine and affected applause"}
+{"model": "m2_naive", "book": "A", "idx": 82, "question": "What did Mr. Singleton suggest to get?", "reference": "Thumb-prints", "prediction": "some tea"}
+{"model": "m2_naive", "book": "A", "idx": 83, "question": "How many experts was Sir Hector discussing with?", "reference": "two", "prediction": "two"}
+{"model": "m2_naive", "book": "A", "idx": 84, "question": "How was the road condition described?", "reference": "greasy, slippery mud", "prediction": "muddy"}
+{"model": "m2_naive", "book": "A", "idx": 85, "question": "Has Mr. Walter proposed to Miss Gibson?", "reference": "Yes", "prediction": "Yes"}
+{"model": "m2_naive", "book": "A", "idx": 86, "question": "What type of needle did the rod turn out to be?", "reference": "A veterinary hypodermic", "prediction": "a hypodermic needle"}
+{"model": "m2_naive", "book": "A", "idx": 87, "question": "How did the red print's thumb-print vary from the prisoner's genuine thumb-print?", "reference": "the genuine thumb-print of the prisoner", "prediction": "In size and shape"}
+{"model": "m2_naive", "book": "A", "idx": 88, "question": "How does Miss Gibson relate to Reuben?", "reference": "friend", "prediction": "engaged to be married"}
+{"model": "m2_naive", "book": "A", "idx": 89, "question": "What was the cyclist's identity?", "reference": "a man", "prediction": "Mr. John Blackmore"}
+{"model": "m2_naive", "book": "A", "idx": 90, "question": "What was the judge's response to the testimony?", "reference": "we will accept your sworn testimony", "prediction": "He shook his head."}
+{"model": "m2_naive", "book": "A", "idx": 91, "question": "Which type of cigar was found inside the box?", "reference": "a large cheroot", "prediction": "Trichinopoly"}
+{"model": "m2_naive", "book": "A", "idx": 92, "question": "What type of work does Dr. Thorndyke focus on?", "reference": "medico-legal work", "prediction": "curiosities of medical science"}
+{"model": "m2_naive", "book": "A", "idx": 93, "question": "What was the narrator's destination?", "reference": "King's Cross", "prediction": "Kensington"}
+{"model": "m2_naive", "book": "A", "idx": 94, "question": "How long was Reuben expected to be in prison?", "reference": "a week or two", "prediction": "a week or two"}
+{"model": "m2_naive", "book": "A", "idx": 95, "question": "Who made the statement about it being wonderful?", "reference": "Polton", "prediction": "He"}
+{"model": "m2_naive", "book": "A", "idx": 96, "question": "What object did Sergeant Bates hold while testifying?", "reference": "an open notebook", "prediction": "a lamp"}
+{"model": "m2_naive", "book": "A", "idx": 97, "question": "Who made the statement about tracing connections with all facts known?", "reference": "he", "prediction": "He"}
+{"model": "m2_naive", "book": "A", "idx": 98, "question": "Whose words were 'Precisely'?", "reference": "Thorndyke", "prediction": "Thorndyke"}
+{"model": "m2_naive", "book": "A", "idx": 99, "question": "What does John Hornby do for a living?", "reference": "dealer in precious metals", "prediction": "outside broker"}
+{"model": "m2_naive", "book": "A", "idx": 100, "question": "Who crafted the microscope for Thorndyke?", "reference": "Polton", "prediction": "a watch-maker"}
+{"model": "m2_naive", "book": "A", "idx": 101, "question": "How long ago did Mr. Anstey visit?", "reference": "He was here", "prediction": "a little over a month ago"}
+{"model": "m2_naive", "book": "A", "idx": 102, "question": "In what time frame is Hornby's trial set to occur? Next week.", "reference": "next week", "prediction": "The end of next week"}
+{"model": "m2_naive", "book": "A", "idx": 103, "question": "What needs to be acquired initially?", "reference": "obtain possession of, or access to, a genuine finger-print", "prediction": "a stock of information"}
+{"model": "m2_naive", "book": "A", "idx": 104, "question": "With whom's consent did Thorndyke take photos of the paper?", "reference": "with their permission", "prediction": "Mr. Marchmont's"}
+{"model": "m2_naive", "book": "A", "idx": 105, "question": "How long did the witness stay away?", "reference": "About three-quarters of an hour", "prediction": "About a month"}
+{"model": "m2_naive", "book": "A", "idx": 106, "question": "What is captured of the fingerprint?", "reference": "a photograph", "prediction": "A good photograph"}
+{"model": "m2_naive", "book": "A", "idx": 107, "question": "What kind of material was the wad likely to be?", "reference": "Soft metal", "prediction": "Soft metal like lead"}
+{"model": "m2_naive", "book": "A", "idx": 108, "question": "Which thumb-print is Mr. Singleton unsure about?", "reference": "fourteen", "prediction": "the thumb-print on the will"}
+{"model": "m2_naive", "book": "A", "idx": 109, "question": "What was the clock doing while everyone was quiet?", "reference": "record the passage of the fleeting seconds", "prediction": "A very prominent part in the general quiet"}
+{"model": "m2_naive", "book": "A", "idx": 110, "question": "Which character expressed gratitude to Miss Gibson?", "reference": "Thorndyke", "prediction": "Stephen"}
+{"model": "m2_naive", "book": "A", "idx": 111, "question": "In what location was the 'Thumbograph' stored?", "reference": "In a drawer in her writing table", "prediction": "a cupboard in the study"}
+{"model": "m2_naive", "book": "A", "idx": 112, "question": "What item did Thorndyke place over the objective?", "reference": "a small leather cap", "prediction": "a little board with a single lens mounted in a metal frame"}
+{"model": "m2_naive", "book": "A", "idx": 113, "question": "What is the chamber number Thorndyke mentions?", "reference": "6A", "prediction": "32"}
+{"model": "m2_naive", "book": "A", "idx": 114, "question": "What was Mr. Hornby's location when the detective came to visit?", "reference": "Absent from home", "prediction": "at Hastings"}
+{"model": "m2_naive", "book": "A", "idx": 115, "question": "Who ended up with Mr. Hornby's Trichinopoly cheroots?", "reference": "Walter", "prediction": "the porter"}
+{"model": "m2_naive", "book": "A", "idx": 116, "question": "What is Dr. Thorndyke's intention regarding the 'Thumbograph'?", "reference": "To put it in evidence", "prediction": "to write up his notes and publish a little book"}
+{"model": "m2_naive", "book": "A", "idx": 117, "question": "Which friend's case is the speaker asking about? Hornby's.", "reference": "the case of your friend Hornby", "prediction": "Hornby's"}
+{"model": "m2_naive", "book": "A", "idx": 118, "question": "What room did they enter after the photograph was taken?", "reference": "a smaller room", "prediction": "the sitting-room"}
+{"model": "m2_naive", "book": "A", "idx": 119, "question": "What does the paper Polton handed over depict?", "reference": "A neatly executed drawing of what looks like one of a set of chessmen", "prediction": "a portion of the upper floor of the building in question"}
+{"model": "m2_naive", "book": "A", "idx": 120, "question": "Whose morning's work does Dr. Thorndyke seem content with?", "reference": "Dr. Thorndyke", "prediction": "a capable housekeeper"}
+{"model": "m2_naive", "book": "A", "idx": 121, "question": "What did the narrator provide to the driver?", "reference": "her address", "prediction": "directions"}
+{"model": "m2_naive", "book": "A", "idx": 122, "question": "How did Mrs. Hornby's bonnet appear after she got it out?", "reference": "flattened and cocked over one ear", "prediction": "flattened on the top"}
+{"model": "m2_naive", "book": "A", "idx": 123, "question": "What time was set for the visit?", "reference": "two o'clock", "prediction": "noon"}
+{"model": "m2_naive", "book": "A", "idx": 124, "question": "Where did the judge observe the expert witness being challenged?", "reference": "at an expert witness stand", "prediction": "in the witness-box"}
+{"model": "m2_naive", "book": "A", "idx": 125, "question": "What will Reuben have after being found not guilty?", "reference": "An unstained character", "prediction": "the right kind of trousers"}
+{"model": "m2_naive", "book": "A", "idx": 126, "question": "Who personally checked the calculations discussed in the text?", "reference": "I", "prediction": "Mr. Thorndyke"}
+{"model": "m2_naive", "book": "A", "idx": 127, "question": "What object did Walter bring out that evening?", "reference": "the 'Thumbograph'", "prediction": "the tea-tray"}
+{"model": "m2_naive", "book": "A", "idx": 128, "question": "Who are the cigar manufacturers mentioned?", "reference": "James Bartlett and Sons", "prediction": "Blick & Sons"}
+{"model": "m2_naive", "book": "A", "idx": 129, "question": "What role did the narrator play for the man?", "reference": "the trusted agent of a man", "prediction": "a kind of confidential servant"}
+{"model": "m2_naive", "book": "A", "idx": 130, "question": "What is Mr. Singleton's conclusion about the thumb-print on square two?", "reference": "a forgery", "prediction": "It was the thumb-print of the deceased."}
+{"model": "m2_naive", "book": "A", "idx": 131, "question": "Which person was put in the dock?", "reference": "Reuben", "prediction": "Mr. Jeffrey"}
+{"model": "m2_naive", "book": "A", "idx": 132, "question": "What did the narrator notice in Thorndyke's demeanor?", "reference": "An almost insensible note of sympathy and affection", "prediction": "a certain amount of play in his eyes"}
+{"model": "m2_naive", "book": "A", "idx": 133, "question": "How did Polton regard Thorndyke?", "reference": "He was The Doctor.", "prediction": "With something like admiring affection."}
+{"model": "m2_naive", "book": "A", "idx": 134, "question": "What action did Miss Gibson's aunt take immediately after receiving the telegram?", "reference": "went off to see Mr. Lawley", "prediction": "telegraphed in reply"}
+{"model": "m2_naive", "book": "A", "idx": 135, "question": "Which person brought Walter to the lab?", "reference": "Thorndyke", "prediction": "John"}
+{"model": "m2_naive", "book": "A", "idx": 136, "question": "How does Anstey describe Hornby's behavior during the trial? Passive.", "reference": "He will be entirely passive", "prediction": "a mere automaton"}
+{"model": "m2_naive", "book": "A", "idx": 137, "question": "What did the rod transform into when examined closely?", "reference": "A fine tube with a sharply pointed end", "prediction": "a thin, straight stick"}
+{"model": "m2_naive", "book": "A", "idx": 138, "question": "Which person felt sure the defendant would be found not guilty?", "reference": "He", "prediction": "Jeffrey"}
+{"model": "m2_naive", "book": "A", "idx": 139, "question": "Which person studied the thumb print?", "reference": "Thorndyke", "prediction": "Thorndyke"}
+{"model": "m2_naive", "book": "A", "idx": 140, "question": "Which society did Mrs. Hornby refer to?", "reference": "The Society of Paralysed Idiots.", "prediction": "the Royal Society"}
+{"model": "m2_naive", "book": "A", "idx": 141, "question": "What does the habit involve?", "reference": "allowing nothing to pass without a certain amount of conscious attention", "prediction": "the habit of systematic inquiry"}
+{"model": "m2_naive", "book": "A", "idx": 142, "question": "Whose book did the narrator borrow the 'Thumbograph' from?", "reference": "Mrs. Hornby", "prediction": "Mr. Britton"}
+{"model": "m2_naive", "book": "A", "idx": 143, "question": "Which tools are safe-robbers unlikely to have for making thumb-prints?", "reference": "Inking-slabs and rollers.", "prediction": "Magnifying-glass and tape-measure"}
+{"model": "m2_naive", "book": "A", "idx": 144, "question": "Which character performed the action of slapping the narrator?", "reference": "Thorndyke", "prediction": "Polton"}
+{"model": "m2_naive", "book": "A", "idx": 145, "question": "To which individuals does the finger-print point the investigation?", "reference": "The inquiry down to Reuben or some person having access to his finger-prints", "prediction": "Mr. and Mrs. John Blackmore"}
+{"model": "m2_naive", "book": "A", "idx": 146, "question": "Whose presence was confirmed at Endsley Gardens upon the narrator's arrival?", "reference": "Miss Gibson", "prediction": "Mr. Blackmore"}
+{"model": "m2_naive", "book": "A", "idx": 147, "question": "Which person did the narrator arrest?", "reference": "The prisoner", "prediction": "Mr. Blackmore"}
+{"model": "m2_naive", "book": "A", "idx": 148, "question": "What did the criminal leave wherever he went?", "reference": "A trail of actual, physical dirt", "prediction": "A trail of blood"}
+{"model": "m2_naive", "book": "A", "idx": 149, "question": "Which method did Mr. Singleton favor for labeling the fingerprint?", "reference": "the system of marking with reference numbers", "prediction": "The method of photographing the paper with the mark on, and mounting the photograph"}
+{"model": "m2_naive", "book": "B", "idx": 0, "question": "What did Thorndyke advise the learned brother to do?", "reference": "try the flavour", "prediction": "try the flavour"}
+{"model": "m2_naive", "book": "B", "idx": 1, "question": "In which place did Jeffrey sign his will?", "reference": "In the lodge", "prediction": "At New Inn"}
+{"model": "m2_naive", "book": "B", "idx": 2, "question": "How many pairs of boots did Thorndyke discover in the drawer?", "reference": "Two", "prediction": "Two"}
+{"model": "m2_naive", "book": "B", "idx": 3, "question": "On which floor are the solicitors located?", "reference": "ground floor", "prediction": "ground floor"}
+{"model": "m2_naive", "book": "B", "idx": 4, "question": "What message did Marchmont send to Mr. Stephen?", "reference": "a telegram", "prediction": "The narrator's message."}
+{"model": "m2_naive", "book": "B", "idx": 5, "question": "What is the name of the person Marchmont introduced as his partner?", "reference": "Mr. Winwood", "prediction": "Mr. Winwood"}
+{"model": "m2_naive", "book": "B", "idx": 6, "question": "Who was interested in the carriage?", "reference": "The bottle-boy", "prediction": "Mr. Weiss and his housekeeper"}
+{"model": "m2_naive", "book": "B", "idx": 7, "question": "Which person agreed with the speaker?", "reference": "Thorndyke", "prediction": "Thorndyke"}
+{"model": "m2_naive", "book": "B", "idx": 8, "question": "In what sequence did Thorndyke place the cards?", "reference": "In the order of their dates", "prediction": "Reverse to the order in which they were picked up"}
+{"model": "m2_naive", "book": "B", "idx": 9, "question": "What activity was the housekeeper engaged in while they were waiting?", "reference": "knitting", "prediction": "knitting"}
+{"model": "m2_naive", "book": "B", "idx": 10, "question": "Who is being introduced as Jervis?", "reference": "the narrator", "prediction": "my friend"}
+{"model": "m2_naive", "book": "B", "idx": 11, "question": "Is the patient's condition consistent with morphinomania?", "reference": "the idea of morphinomania", "prediction": "Yes"}
+{"model": "m2_naive", "book": "B", "idx": 12, "question": "What did Mr. Graves require of the doctor?", "reference": "The doctor was to come from a distance and was not to be told who he was or where he lived or anything about him", "prediction": "An unequivocal, positive assurance that there was no alternative"}
+{"model": "m2_naive", "book": "B", "idx": 13, "question": "How did Mr. Marchmont react during the pause?", "reference": "He remarked somewhat stiffly", "prediction": "He remarked somewhat stiffly"}
+{"model": "m2_naive", "book": "B", "idx": 14, "question": "What is the identity of the woman in question?", "reference": "No woman, excepting Mrs. Wilson, had been mentioned.", "prediction": "Mrs. Wilson"}
+{"model": "m2_naive", "book": "B", "idx": 15, "question": "Which item did the lady let go?", "reference": "the little basket", "prediction": "the little basket"}
+{"model": "m2_naive", "book": "B", "idx": 16, "question": "What is the main threat to the people according to them?", "reference": "the narrator", "prediction": "starvation"}
+{"model": "m2_naive", "book": "B", "idx": 17, "question": "Why is the narrator's life important?", "reference": "Your life is of some value to you and to another person", "prediction": "We are talking about his life--or perhaps we might say, his death--and his life is important to us just because it is connected with the life of another person about whom we are not so very concerned"}
+{"model": "m2_naive", "book": "B", "idx": 18, "question": "What vice was Jeffrey Blackmore known to have?", "reference": "Opium habit", "prediction": "a rather heavy drinker"}
+{"model": "m2_naive", "book": "B", "idx": 19, "question": "Describe the unique optical characteristics of Weiss's spectacles.", "reference": "when you looked through them they had the properties of plain glass; when you looked at them they had the appearance of lenses", "prediction": "peculiarity of Weiss's spectacles"}
+{"model": "m2_naive", "book": "B", "idx": 20, "question": "What was the estimated time since the person's death?", "reference": "about twelve hours", "prediction": "about twelve hours"}
+{"model": "m2_naive", "book": "B", "idx": 21, "question": "What was the initial step in the physical examination?", "reference": "Felt his pulse", "prediction": "Felt his pulse"}
+{"model": "m2_naive", "book": "B", "idx": 22, "question": "What method did she use to straighten her eyes briefly?", "reference": "by a strong muscular effort", "prediction": "muscle-memory"}
+{"model": "m2_naive", "book": "B", "idx": 23, "question": "How many wheels does the cab have that the cabman drives?", "reference": "Four", "prediction": "Four"}
+{"model": "m2_naive", "book": "B", "idx": 24, "question": "Which person compared the room's security to a Newgate cell?", "reference": "Mr. H. Weiss", "prediction": "Mr. Winwood"}
+{"model": "m2_naive", "book": "B", "idx": 25, "question": "What action did the narrator recommend for the man?", "reference": "walk him up and down the room", "prediction": "walk about"}
+{"model": "m2_naive", "book": "B", "idx": 26, "question": "What is the client using to play a game of peekaboo?", "reference": "a lease or a deed or some other sort of document", "prediction": "a screen"}
+{"model": "m2_naive", "book": "B", "idx": 27, "question": "What was the narrator's state of mind after departing?", "reference": "a little uneasy", "prediction": "a pretty confident hope"}
+{"model": "m2_naive", "book": "B", "idx": 28, "question": "What is the name of the chief porter?", "reference": "Walker", "prediction": "Walker"}
+{"model": "m2_naive", "book": "B", "idx": 29, "question": "Which person handed the paper to the narrator?", "reference": "He", "prediction": "He"}
+{"model": "m2_naive", "book": "B", "idx": 30, "question": "What is their reason for not informing the Post Office of their new address?", "reference": "to leave no tracks", "prediction": "to give the game away"}
+{"model": "m2_naive", "book": "B", "idx": 31, "question": "Can you tell me the aunt's full name?", "reference": "Julia Elizabeth Wilson", "prediction": "Julia Elizabeth Wilson"}
+{"model": "m2_naive", "book": "B", "idx": 32, "question": "What action did the porter take before he witnessed the will?", "reference": "read the document through", "prediction": "read the document through"}
+{"model": "m2_naive", "book": "B", "idx": 33, "question": "What date did Mr. Jeffrey sign his second will?", "reference": "twelfth of November of last year", "prediction": "The twelfth of November of last year"}
+{"model": "m2_naive", "book": "B", "idx": 34, "question": "What was Thorndyke's intention after the meal?", "reference": "treat himself to one", "prediction": "to do some 'hacking'"}
+{"model": "m2_naive", "book": "B", "idx": 35, "question": "What was John Blackmore's role at New Inn?", "reference": "Personating Jeffrey Blackmore at New Inn", "prediction": "bottle-keeper"}
+{"model": "m2_naive", "book": "B", "idx": 36, "question": "How did the narrator initially view Jeffrey Blackmore's will?", "reference": "It was a perfectly regular, sound and valid document", "prediction": "a perfectly regular, sound and valid document"}
+{"model": "m2_naive", "book": "B", "idx": 37, "question": "What is the name of the narrator's old friend and fellow-student?", "reference": "John Thorndyke", "prediction": "John Thorndyke"}
+{"model": "m2_naive", "book": "B", "idx": 38, "question": "What evidence did the woman leave?", "reference": "Two or three beads.", "prediction": "A single, but very conclusive, piece of evidence."}
+{"model": "m2_naive", "book": "B", "idx": 39, "question": "Who was in the room when the narrator was trying to wake the patient?", "reference": "Mr. Weiss", "prediction": "the housekeeper"}
+{"model": "m2_naive", "book": "B", "idx": 40, "question": "What places did the uncle visit that influenced his studies?", "reference": "Yokohama and Tokio, Bagdad.", "prediction": "Yokohama, Tokio, Kyoto, Nara, Osaka, Himeji, and Kobe"}
+{"model": "m2_naive", "book": "B", "idx": 41, "question": "How did Marchmont describe the affair?", "reference": "Mysterious", "prediction": "奇异的东印度公司式的事务"}
+{"model": "m2_naive", "book": "B", "idx": 42, "question": "Was there a risk of the suspects escaping by dropping from the windows?", "reference": "There was no dropping out of the windows at that height", "prediction": "Yes"}
+{"model": "m2_naive", "book": "B", "idx": 43, "question": "Which person would notice the light in the rooms at one in the morning?", "reference": "The night porter", "prediction": "The night porter"}
+{"model": "m2_naive", "book": "B", "idx": 44, "question": "Through which court do Marchmont and Thorndyke wish to disclose the case?", "reference": "Probate Court", "prediction": "the Court of King's Bench"}
+{"model": "m2_naive", "book": "B", "idx": 45, "question": "Whose opinion did Thorndyke concur with?", "reference": "Thorndyke", "prediction": "Jervis"}
+{"model": "m2_naive", "book": "B", "idx": 46, "question": "Which tool did Thorndyke use to take out the screws?", "reference": "a 'combination' knife", "prediction": "a 'combination' knife"}
+{"model": "m2_naive", "book": "B", "idx": 47, "question": "Where did they go after they finished talking about the Blackmore case?", "reference": "To the lower floor", "prediction": "to feed"}
+{"model": "m2_naive", "book": "B", "idx": 48, "question": "Which venue did the narrator choose to visit after finishing his meal?", "reference": "the theatre in Sloane Square", "prediction": "the theatre in Sloane Square"}
+{"model": "m2_naive", "book": "B", "idx": 49, "question": "How does the size of the screw compare to the bolts?", "reference": "About the size of those with which the bolts were fastened on the doors", "prediction": "About the size of those with which the bolts were fastened on the doors"}
+{"model": "m2_naive", "book": "B", "idx": 50, "question": "Who proposed the idea that Mr. Weiss might have used morphine?", "reference": "You", "prediction": "You"}
+{"model": "m2_naive", "book": "B", "idx": 51, "question": "What was the elderly man's reaction when called by name?", "reference": "a slight lifting of the eyelids", "prediction": "half rose, bowed silently and disappeared"}
+{"model": "m2_naive", "book": "B", "idx": 52, "question": "Which person was hunched near the fire?", "reference": "a stout, purple-faced man", "prediction": "a stout, purple-faced man"}
+{"model": "m2_naive", "book": "B", "idx": 53, "question": "Whose symptoms were relieved by antidotes?", "reference": "Mr. Graves", "prediction": "Mr. Graves"}
+{"model": "m2_naive", "book": "B", "idx": 54, "question": "What is the reason it is unlikely the maker could provide useful information?", "reference": "Spectacle-makers are not usually on confidential terms with their customers", "prediction": "He has had no opportunity to study the changes that have been made"}
+{"model": "m2_naive", "book": "B", "idx": 55, "question": "Which street was the cab heading to?", "reference": "towards Sloane Street", "prediction": "Kennington Park Road"}
+{"model": "m2_naive", "book": "B", "idx": 56, "question": "How did Thorndyke describe Jervis' mistake?", "reference": "Asinine", "prediction": "Asinine"}
+{"model": "m2_naive", "book": "B", "idx": 57, "question": "What did he give the porter to cover?", "reference": "Some money to pay one or two small bills", "prediction": "some money to cover his expenses"}
+{"model": "m2_naive", "book": "B", "idx": 58, "question": "What was the orientation of the photograph on the wall?", "reference": "Upside down", "prediction": "landscape"}
+{"model": "m2_naive", "book": "B", "idx": 59, "question": "What drawer are the reed pieces and spectacles in?", "reference": "in the top drawer of that cabinet", "prediction": "a cupboard"}
+{"model": "m2_naive", "book": "B", "idx": 60, "question": "Which person put the key into the gate's wicket?", "reference": "He", "prediction": "He"}
+{"model": "m2_naive", "book": "B", "idx": 61, "question": "Describe the material of the letter-box.", "reference": "Wooden", "prediction": "cast iron"}
+{"model": "m2_naive", "book": "B", "idx": 62, "question": "What did Marchmont suddenly understand?", "reference": "Your point", "prediction": "the significance of the changes in the will"}
+{"model": "m2_naive", "book": "B", "idx": 63, "question": "Why was the right eye-piece made of plain glass?", "reference": "as is usual in the case of a blind, or useless, eye", "prediction": "to make it more obvious that the blind spot was man-made and not a natural defect"}
+{"model": "m2_naive", "book": "B", "idx": 64, "question": "Whose signature did Thorndyke initially doubt?", "reference": "Jeffrey Blackmore", "prediction": "Stephen's"}
+{"model": "m2_naive", "book": "B", "idx": 65, "question": "How were the waitress's heels?", "reference": "a good deal worn down on the offside", "prediction": "Heels?--I should say pretty well worn down on the offside"}
+{"model": "m2_naive", "book": "B", "idx": 66, "question": "How did the owner react when the narrator returned her property?", "reference": "The hand which held the basket into which I poured the rescued trash trembled visibly", "prediction": "She smiled"}
+{"model": "m2_naive", "book": "B", "idx": 67, "question": "What new possibility did the will introduce?", "reference": "It created the possibility that, in certain circumstances, not known to or anticipated by the testator, John Blackmore might become the principal beneficiary, contrary to the obvious wishes of the testator.", "prediction": "the possibility of John's bequest to his brother"}
+{"model": "m2_naive", "book": "B", "idx": 68, "question": "What characteristic marks can be found on stones carried by glaciers?", "reference": "parallel scratches", "prediction": "parallel scratches"}
+{"model": "m2_naive", "book": "B", "idx": 69, "question": "Whose life is at risk according to the doctor?", "reference": "the patient", "prediction": "Mr. Graves"}
+{"model": "m2_naive", "book": "B", "idx": 70, "question": "At what time did Jeffrey go to the lodge?", "reference": "About eight o'clock", "prediction": "About eight o'clock"}
+{"model": "m2_naive", "book": "B", "idx": 71, "question": "What made the will not needed?", "reference": "It was perfectly unnecessary.", "prediction": "The will that made the will!"}
+{"model": "m2_naive", "book": "B", "idx": 72, "question": "Could the patient's condition be due to something in the brain?", "reference": "brain affection", "prediction": "Yes"}
+{"model": "m2_naive", "book": "B", "idx": 73, "question": "What was the description of sleeping sickness found in the reference library?", "reference": "a rare and obscure disease of which very little was known at present", "prediction": "an extremely rare and obscure disease of which very little was known at present"}
+{"model": "m2_naive", "book": "B", "idx": 74, "question": "Which house number is described as mysterious?", "reference": "31", "prediction": "31"}
+{"model": "m2_naive", "book": "B", "idx": 75, "question": "How many times did Jeffrey hint at his plans?", "reference": "Repeatedly.", "prediction": "Repeatedly."}
+{"model": "m2_naive", "book": "B", "idx": 76, "question": "How was Thorndyke's facial expression typically?", "reference": "the most impassive that I have ever seen", "prediction": "Passive to a degree that almost amounted to idiocy"}
+{"model": "m2_naive", "book": "B", "idx": 77, "question": "What was the aunt's location?", "reference": "down in Devonshire", "prediction": "down in Devonshire"}
+{"model": "m2_naive", "book": "B", "idx": 78, "question": "Which person invented the frames of the spectacles?", "reference": "Mr. Stopford of Moorfields", "prediction": "J. B. Davies"}
+{"model": "m2_naive", "book": "B", "idx": 79, "question": "Which body was discovered in the room at New Inn the next morning?", "reference": "Jeffrey's body", "prediction": "the body of the testator"}
+{"model": "m2_naive", "book": "B", "idx": 80, "question": "Whose name appeared as the executor and beneficiary in the revised will?", "reference": "John Blackmore", "prediction": "John Blackmore"}
+{"model": "m2_naive", "book": "B", "idx": 81, "question": "How severe was the patient's stupor?", "reference": "profound", "prediction": "deep"}
+{"model": "m2_naive", "book": "B", "idx": 82, "question": "What did Thorndyke believe the bolt traces indicated?", "reference": "massive fastenings", "prediction": "massive fastenings"}
+{"model": "m2_naive", "book": "B", "idx": 83, "question": "Which person settled the cab payment?", "reference": "The gentleman", "prediction": "The gentleman"}
+{"model": "m2_naive", "book": "B", "idx": 84, "question": "What angle did Thorndyke use to align the chart with the map?", "reference": "Twenty degrees", "prediction": "N. 45° E."}
+{"model": "m2_naive", "book": "B", "idx": 85, "question": "To whom did the found glasses probably belong?", "reference": "Weiss or Graves", "prediction": "to Mr. Graves"}
+{"model": "m2_naive", "book": "B", "idx": 86, "question": "Which person recognized the deceased as Mr. Jeffrey Blackmore?", "reference": "The night porter", "prediction": "the porter"}
+{"model": "m2_naive", "book": "B", "idx": 87, "question": "Who did not agree with Thorndyke's opinion?", "reference": "I", "prediction": "I"}
+{"model": "m2_naive", "book": "B", "idx": 88, "question": "To what did the letter from Thorndyke pertain?", "reference": "the will of the late Jeffrey Blackmore", "prediction": "the will of the late Jeffrey Blackmore"}
+{"model": "m2_naive", "book": "B", "idx": 89, "question": "How did Winwood react when Marchmont asked him to be quiet?", "reference": "He sank into a chair", "prediction": "He exclaimed, 'I say, sir! '"}
+{"model": "m2_naive", "book": "B", "idx": 90, "question": "What evidence did Thorndyke find to show the plates were added recently?", "reference": "The wood covered by the plate is as dirty and time-stained as the rest of the frame.", "prediction": "The plates were added recently."}
+{"model": "m2_naive", "book": "B", "idx": 91, "question": "How would you describe the relationship between Mr. Britton and Thorndyke?", "reference": "more or less a personal friend", "prediction": "more or less a personal friend"}
+{"model": "m2_naive", "book": "B", "idx": 92, "question": "Who was to arrange for the carriage?", "reference": "Mrs. Schallibaum", "prediction": "Mrs. Schallibaum"}
+{"model": "m2_naive", "book": "B", "idx": 93, "question": "Who was moving back and forth in the dim light?", "reference": "Mr. Weiss", "prediction": "the owner of the basket"}
+{"model": "m2_naive", "book": "B", "idx": 94, "question": "What item was located on the bedroom floor?", "reference": "A portion of an oval glass", "prediction": "a brass opium-pipe"}
+{"model": "m2_naive", "book": "B", "idx": 95, "question": "Who was the experienced actor mentioned?", "reference": "John", "prediction": "Mr. Herbert"}
+{"model": "m2_naive", "book": "B", "idx": 96, "question": "What are the nationalities of the two individuals in question?", "reference": "Scotchman and German.", "prediction": "British and American"}
+{"model": "m2_naive", "book": "B", "idx": 97, "question": "What was the closed carriage seen as?", "reference": "A tactical mistake", "prediction": "a mobile fortalice"}
+{"model": "m2_naive", "book": "B", "idx": 98, "question": "Which item did the narrator find in a dark corner?", "reference": "A ball of the thick thread or twine", "prediction": "a broken glass"}
+{"model": "m2_naive", "book": "B", "idx": 99, "question": "Whom did the doctor ask if the patient never roused completely?", "reference": "Mr. Weiss", "prediction": "I"}
+{"model": "m2_naive", "book": "B", "idx": 100, "question": "How were the walls described?", "reference": "mouldy", "prediction": "mouldy"}
+{"model": "m2_naive", "book": "B", "idx": 101, "question": "How many of the cheques are Mr. Blackmore's?", "reference": "twenty-three", "prediction": "twenty-three"}
+{"model": "m2_naive", "book": "B", "idx": 102, "question": "What did Marchmont do to refresh himself?", "reference": "Fortify himself with a draught of ale", "prediction": "饮了一杯黑啤酒"}
+{"model": "m2_naive", "book": "B", "idx": 103, "question": "What physical evidence was noted near the puncture mark from the hypodermic syringe?", "reference": "a single puncture in the right thigh", "prediction": "a single puncture mark in the right thigh"}
+{"model": "m2_naive", "book": "B", "idx": 104, "question": "Which friend of Jeffrey was informed about his living in New Inn?", "reference": "John Blackmore", "prediction": "John Blackmore"}
+{"model": "m2_naive", "book": "B", "idx": 105, "question": "Whom did Thorndyke say good night to?", "reference": "the porter", "prediction": "the porter"}
+{"model": "m2_naive", "book": "B", "idx": 106, "question": "What was the quantity of cheques in each group?", "reference": "six", "prediction": "six"}
+{"model": "m2_naive", "book": "B", "idx": 107, "question": "What was the amount of money Thorndyke placed on the table for Wilkins?", "reference": "two sovereigns", "prediction": "twenty-five guineas"}
+{"model": "m2_naive", "book": "B", "idx": 108, "question": "How would you describe Jeffrey Blackmore's lifestyle based on the bedroom?", "reference": "A man of few needs", "prediction": "A rather fast lifestyle"}
+{"model": "m2_naive", "book": "B", "idx": 109, "question": "What is Polton's role in relation to Thorndyke?", "reference": "Thorndyke's confidential servant", "prediction": "friend and confidential servant"}
+{"model": "m2_naive", "book": "B", "idx": 110, "question": "Which case is being discussed?", "reference": "The Blackmore case", "prediction": "the Blackmore case"}
+{"model": "m2_naive", "book": "B", "idx": 111, "question": "How many additional cases is the narrator managing?", "reference": "Half a dozen.", "prediction": "three"}
+{"model": "m2_naive", "book": "B", "idx": 112, "question": "Which person put the label on the frame?", "reference": "The frame-maker", "prediction": "He"}
+{"model": "m2_naive", "book": "B", "idx": 113, "question": "What substance was found on Jeffrey Blackmore's boots?", "reference": "a moderate amount of dry mud", "prediction": "A little white patch"}
+{"model": "m2_naive", "book": "B", "idx": 114, "question": "With what did the narrator inject the atropine?", "reference": "A syringe", "prediction": "A syringe"}
+{"model": "m2_naive", "book": "B", "idx": 115, "question": "What will be prepared for the patient's transportation?", "reference": "some medicine", "prediction": "a stretcher"}
+{"model": "m2_naive", "book": "B", "idx": 116, "question": "What kind of glasses did Jeffrey Blackmore wear?", "reference": "spectacles", "prediction": "Of a certain peculiar and probably unique character"}
+{"model": "m2_naive", "book": "B", "idx": 117, "question": "Describe the carriage.", "reference": "A kind of large brougham", "prediction": "A kind of large brougham"}
+{"model": "m2_naive", "book": "B", "idx": 118, "question": "Which person requested Wilkins to sign the document?", "reference": "Thorndyke", "prediction": "Thorndyke"}
+{"model": "m2_naive", "book": "B", "idx": 119, "question": "Which item did the narrator use to create a funnel?", "reference": "a vulcanite ear-speculum", "prediction": "a jointed ear-speculum"}
+{"model": "m2_naive", "book": "B", "idx": 120, "question": "What place did the woman visit as mentioned in the passage?", "reference": "Jeffrey's chambers", "prediction": "Jeffrey's chambers"}
+{"model": "m2_naive", "book": "B", "idx": 121, "question": "Where were Thorndyke and the narrator going?", "reference": "to the narrator's chambers", "prediction": "to the lower floor"}
+{"model": "m2_naive", "book": "B", "idx": 122, "question": "Which person gave the explanation about the extra signature?", "reference": "Thorndyke", "prediction": "Thorndyke"}
+{"model": "m2_naive", "book": "B", "idx": 123, "question": "What was the location of John Blackmore's residence?", "reference": "Not at New Inn", "prediction": "Not specified in the passage"}
+{"model": "m2_naive", "book": "B", "idx": 124, "question": "At what time did the narrator knock on the door?", "reference": "Midnight", "prediction": "Midnight"}
+{"model": "m2_naive", "book": "B", "idx": 125, "question": "Who are the house-agents and valuers referred to in the passage?", "reference": "Messrs. Ryebody Brothers", "prediction": "Messrs. Ryebody Brothers"}
+{"model": "m2_naive", "book": "B", "idx": 126, "question": "When did Jeffrey die?", "reference": "fourteenth of March of this year", "prediction": "twelfth of March of this year"}
+{"model": "m2_naive", "book": "B", "idx": 127, "question": "What does the text imply about the impact of the suspicious man's behavior?", "reference": "generates in others the kind of conduct that seems to justify his suspicions", "prediction": "it was not unlikely to have been seen and noticed by a responsible servant"}
+{"model": "m2_naive", "book": "B", "idx": 128, "question": "Describe the woman's relationship with Mr. Weiss.", "reference": "strange, taciturn woman", "prediction": "strange, taciturn woman"}
+{"model": "m2_naive", "book": "B", "idx": 129, "question": "What container did he use to collect the items?", "reference": "a tin box", "prediction": "a tin box"}
+{"model": "m2_naive", "book": "B", "idx": 130, "question": "What liquid did Thorndyke use to dissolve the sugar?", "reference": "distilled water", "prediction": "distilled water"}
+{"model": "m2_naive", "book": "B", "idx": 131, "question": "Whose name was mentioned for giving the patient the draught?", "reference": "Mr. Weiss", "prediction": "Mr. Weiss"}
+{"model": "m2_naive", "book": "B", "idx": 132, "question": "Which issue is the narrator finding hard to resolve?", "reference": "What is it that is happening at that house?", "prediction": "the problem of free will versus determinism"}
+{"model": "m2_naive", "book": "B", "idx": 133, "question": "What traditional British drink did Marchmont call 'John Barleycorn'?", "reference": "ale", "prediction": "ale"}
+{"model": "m2_naive", "book": "B", "idx": 134, "question": "What did Dr. Thorndyke briefly explain to his audience?", "reference": "The construction of the chart", "prediction": "The construction of the chart"}
+{"model": "m2_naive", "book": "B", "idx": 135, "question": "Whose idea was it to visit New Inn that evening?", "reference": "Thorndyke", "prediction": "Thorndyke's"}
+{"model": "m2_naive", "book": "B", "idx": 136, "question": "What did the narrator think was causing the patient's condition?", "reference": "Morphine poisoning", "prediction": "toxicology"}
+{"model": "m2_naive", "book": "B", "idx": 137, "question": "What action did the man take after leaving the room?", "reference": "hurry them up about the coffee", "prediction": "made sure no eye witnessed his departure"}
+{"model": "m2_naive", "book": "B", "idx": 138, "question": "In which month did Mr. Blackmore move into the chambers?", "reference": "The second of last October", "prediction": "March"}
+{"model": "m2_naive", "book": "B", "idx": 139, "question": "What was the basket owner doing when the narrator was drinking tea?", "reference": "paying for her refreshment", "prediction": "paying for her refreshment"}
+{"model": "m2_naive", "book": "B", "idx": 140, "question": "What was Uncle John's workplace at the inquest?", "reference": "a bucket-shop in London", "prediction": "a bucket-shop in London"}
+{"model": "m2_naive", "book": "B", "idx": 141, "question": "How is Mrs. Schallibaum described in the passage?", "reference": "white-faced, terrified, expectant", "prediction": "A personable woman"}
+{"model": "m2_naive", "book": "B", "idx": 142, "question": "Where was the notebook during their trip?", "reference": "in his pocket", "prediction": "in the cab"}
+{"model": "m2_naive", "book": "B", "idx": 143, "question": "At which location did Jeffrey apply for chambers?", "reference": "New Inn", "prediction": "New Inn"}
+{"model": "m2_naive", "book": "B", "idx": 144, "question": "What type of photograph did Thorndyke give to the narrator?", "reference": "cabinet size", "prediction": "a good photograph"}
+{"model": "m2_naive", "book": "B", "idx": 145, "question": "Who did the porter think the dead man was?", "reference": "Mr. Blackmore", "prediction": "Mr. Blackmore"}
+{"model": "m2_naive", "book": "B", "idx": 146, "question": "What did the tea-cup contain at the bottom?", "reference": "a single lump of sugar", "prediction": "a single lump of sugar"}
+{"model": "m2_naive", "book": "B", "idx": 147, "question": "At what distance could a person read the characters on the photograph easily?", "reference": "forty or fifty feet", "prediction": "forty or fifty feet"}
+{"model": "m2_naive", "book": "B", "idx": 148, "question": "How were the trousers of the deceased described?", "reference": "The trousers had creases as if turned up half-way to the knee", "prediction": "trousers"}
+{"model": "m2_naive", "book": "B", "idx": 149, "question": "Who was suspected of giving Mr. Graves the poison?", "reference": "Mr. Weiss or the housekeeper", "prediction": "Dr. Stillbury"}

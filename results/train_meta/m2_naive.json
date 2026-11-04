@@ -1,0 +1,23 @@
+{
+  "method": "naive",
+  "book": "B",
+  "base": "models/m1/merged",
+  "train_gpu_hours": 0.064,
+  "n_ce": 1103,
+  "n_kd": 0,
+  "args": {
+    "base": "models/m1/merged",
+    "book": "B",
+    "out": "models/m2_naive",
+    "method": "naive",
+    "old_book": "A",
+    "replay_ratio": "0.25",
+    "rehearsal": "None",
+    "kd_weight": "1.0",
+    "epochs": "5",
+    "lr": "0.0001",
+    "batch": "8",
+    "kd_batch": "4",
+    "merge": "False"
+  }
+}

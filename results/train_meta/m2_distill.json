@@ -1,0 +1,23 @@
+{
+  "method": "distill",
+  "book": "B",
+  "base": "models/m1/merged",
+  "train_gpu_hours": 0.126,
+  "n_ce": 1103,
+  "n_kd": 800,
+  "args": {
+    "base": "models/m1/merged",
+    "book": "B",
+    "out": "models/m2_distill",
+    "method": "distill",
+    "old_book": "A",
+    "replay_ratio": "0.25",
+    "rehearsal": "data/A/rehearsal.jsonl",
+    "kd_weight": "1.0",
+    "epochs": "5",
+    "lr": "0.0001",
+    "batch": "8",
+    "kd_batch": "4",
+    "merge": "False"
+  }
+}

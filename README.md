@@ -43,7 +43,15 @@ Run of 2026-11-04, one A100 80 GB (Colab), seed 1234. 150 reworded test question
 
 Single seed: differences of a few questions are noise. The book-B gain column carries a paired bootstrap 95% interval.
 
-Per-question answers and verdicts for every model are in `results/judged/*.jsonl`. Training loss curves are in W&B when `WANDB_PROJECT` is set.
+**Judge sanity check.** Totals over both books (300 questions per model), Qwen judge vs. normalized string match of the reference: base 18 vs 15, M1 64 vs 69, naive 83 vs 85, replay 93 vs 100, distill 87 vs 86. The two metrics agree to within a few answers per model, so the ranking does not depend on the judge.
+
+**Evidence in this repo**
+
+- `results/judged/*.jsonl`: every question, reference, model answer, judge verdict and string-match verdict
+- `results/answers/*.jsonl`: raw greedy answers per model
+- `data/{A,B}/train.jsonl`, `data/{A,B}/eval.jsonl`: the generated training facts and the reworded test questions
+- `results/train_meta/*.json`: hyperparameters, data sizes and measured GPU hours per training run
+- `results/colab_run.log`: the full console log of the run
 
 ## Run it
 

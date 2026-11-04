@@ -1,0 +1,23 @@
+{
+  "method": "naive",
+  "book": "A",
+  "base": "Qwen/Qwen2.5-7B-Instruct",
+  "train_gpu_hours": 0.055,
+  "n_ce": 956,
+  "n_kd": 0,
+  "args": {
+    "base": "Qwen/Qwen2.5-7B-Instruct",
+    "book": "A",
+    "out": "models/m1",
+    "method": "naive",
+    "old_book": "A",
+    "replay_ratio": "0.25",
+    "rehearsal": "None",
+    "kd_weight": "1.0",
+    "epochs": "5",
+    "lr": "0.0001",
+    "batch": "8",
+    "kd_batch": "4",
+    "merge": "True"
+  }
+}
