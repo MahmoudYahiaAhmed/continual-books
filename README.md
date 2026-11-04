@@ -22,15 +22,32 @@ Why self-distillation: a KL penalty on raw book-A text protects next-token predi
 
 ## Results
 
+Run of 2026-11-04, one A100 80 GB (Colab), seed 1234. 150 reworded test questions per book.
+
 <!-- RESULTS:START -->
-_Not run yet. `bash run_all.sh` fills this table from `results/judged/`._
+| Model | Book A correct | Book B correct | Book A kept (of M1-correct) | Book B gain vs M1 [95% CI] | Train GPU h |
+|---|---|---|---|---|---|
+| Base Qwen2.5-7B-Instruct | 15/150 | 3/150 | - | - | - |
+| M1: + book A (LoRA) | 58/150 | 6/150 | - | - | 0.06 |
+| M1 + book B, naive | 22/150 | 61/150 | 14/58 (24%) | +55 [+43, +68] | 0.06 |
+| M1 + book B, replay 25% | 34/150 | 59/150 | 27/58 (47%) | +53 [+41, +65] | 0.08 |
+| M1 + book B, self-distill to M1 | 45/150 | 42/150 | 34/58 (59%) | +36 [+26, +47] | 0.13 |
 <!-- RESULTS:END -->
+
+**What it shows**
+
+- **Forgetting is severe on close topics.** Naive training on book B keeps only 24% of the book-A answers M1 had right.
+- **Self-distillation to M1 protects the most:** 59% kept, against 47% for replay of the reference QA, with no reference answers needed.
+- **Protection costs plasticity.** Distillation learns less of book B (+36 against +55 for naive); the intervals do not overlap. Balancing the two (KD weight, schedule, more paraphrased new-book data) is the next experiment.
+- **Cheap.** Each step trains in under 0.15 A100-hours; the whole pipeline, data generation and judging included, ran in about 40 minutes.
+
+Single seed: differences of a few questions are noise. The book-B gain column carries a paired bootstrap 95% interval.
 
 Per-question answers and verdicts for every model are in `results/judged/*.jsonl`. Training loss curves are in W&B when `WANDB_PROJECT` is set.
 
 ## Run it
 
-Needs one GPU with at least 40 GB (A100 40/80 GB, A6000, L40S). The whole pipeline takes about 2 GPU hours.
+Needs one GPU with at least 40 GB (A100 40/80 GB, A6000, L40S). The whole pipeline takes under 1 hour on an A100.
 
 ```bash
 pip install -r requirements.txt
