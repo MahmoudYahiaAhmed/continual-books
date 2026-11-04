@@ -1,0 +1,7 @@
+vllm==0.8.5.post1
+transformers==4.51.3
+peft==0.15.2
+accelerate==1.6.0
+requests>=2.31
+wandb>=0.19
+pytest>=8.0
