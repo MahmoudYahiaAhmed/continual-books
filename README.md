@@ -46,6 +46,7 @@ Every stage skips itself if its output already exists, so an interrupted run can
 !git clone https://github.com/MahmoudYahiaAhmed/continual-books /content/continual-books
 %cd /content/continual-books
 !pip install -q -r requirements.txt
+!pip uninstall -y -q torchao   # Colab ships torchao 0.10, which recent peft rejects
 import os; os.environ["WANDB_PROJECT"] = "continual-books"   # optional; run `!wandb login` first
 !bash run_all.sh 2>&1 | tee run.log
 ```
